@@ -5,7 +5,7 @@
 **- Wollok::** My OOP-based game. Where I learned all the concepts and strategies of object-oriented programming
 
 ## Skills
-**Data bases:** SQL
+**Data bases:** SQL<br>
 **POO:** python, Java
 
 I'm currently an advances studen of "Universidad Nacional de Quilmes"
