@@ -1,9 +1,10 @@
 # Hello I'm Santiago Barreto
 
-##Tech stack
-<img src="https://raw.githubusercontent.com/obj1unq/2025c2s2-tp-grupal-juego-2025c2s2-grupo1/refs/heads/master/assets/image.png"/> **Wollok::** My OOP-based game. Where I learned all the concepts and strategies of object-oriented programming
+#Tech stack
+<img src="https://raw.githubusercontent.com/obj1unq/2025c2s2-tp-grupal-juego-2025c2s2-grupo1/refs/heads/master/assets/image.png"/> 
+**Wollok::** My OOP-based game. Where I learned all the concepts and strategies of object-oriented programming
 
-##Skills
+#Skills
 **Data bases:** SQL
 **POO:** python, Java
 
