@@ -1,14 +1,15 @@
-# Hello I'm Santiago Barreto
+#Computer programming technician
 
 ## Tech stack
 <img src="https://raw.githubusercontent.com/obj1unq/2025c2s2-tp-grupal-juego-2025c2s2-grupo1/refs/heads/master/assets/image.png"/> <br>
-**- Wollok::** My OOP-based game. Where I learned all the concepts and strategies of object-oriented programming
+**- Wollok:** My OOP-based game. It was the project where I learned the basics of object-oriented programming. It was carried out applying different design patterns and optimization strategies.
 
 ## Skills
-**Data bases:** SQL<br>
-**POO:** python, Java
+**Data bases:** SQL, Oracle, PostgreSQL <br>
+**POO:** python, Java, JavaScript, C, C++ <br>
+**WEB:** HTML, CSS, 
 
-I'm currently an advances studen of "Universidad Nacional de Quilmes"
+I'm currently an advances student of "Universidad Nacional de Quilmes"
 <!--
 **BarretoSantiago/BarretoSantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
