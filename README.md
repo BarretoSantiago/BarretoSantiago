@@ -1,4 +1,4 @@
-#Computer programming technician
+# Computer programming technician
 
 ## Tech stack
 <img src="https://raw.githubusercontent.com/obj1unq/2025c2s2-tp-grupal-juego-2025c2s2-grupo1/refs/heads/master/assets/image.png"/> <br>
